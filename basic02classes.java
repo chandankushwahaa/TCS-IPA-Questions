@@ -22,7 +22,7 @@ Note: All the searches should be case insensitive.
 */
 import java.util.Scanner;
 
-public class _02classes {
+public class basic02classes {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
 

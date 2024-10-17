@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class _01string {
+public class basic01string {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     String s = sc.nextLine();
